@@ -1,1 +1,2 @@
-npm crate vite@latest
+1. npm crate vite@latest
+2. Subir el repositorio
